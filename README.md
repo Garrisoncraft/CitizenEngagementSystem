@@ -47,6 +47,24 @@ The CitizenConnect is structured as a modern web application with the following 
 
 ## Demo & Walkthrough
 
+## Demo Video
+
+[![Watch the demo](frontend/src/assets/CitizenConnectDemo.mp4)]
+
+## Demo Pages
+
+[![HomePage](frontend/src/assets/Homepage.png)]
+
+[![Submission](frontend/src/assets/Submission.png)]
+
+[![TrackSubmission](frontend/src/assets/TrackSubmission.png)]
+
+[![ManageSubmission](frontend/src/assets/ManageSubmission(admin).png)]
+
+[![UserRegistrationAdmin](frontend/src/assets/UserRegistrationAdmin.png)]
+
+[![UserManagementAdmin](frontend/src/assets/UserManagementAdmin.png)]
+
 ### Citizen Experience
 
 1. **Submit Feedback**
@@ -73,24 +91,6 @@ The CitizenConnect is structured as a modern web application with the following 
    - Citizens receive email updates when their submission status changes.
 
 
-
-## Demo Video
-
-[![Watch the demo](frontend/public/CitizenConnectDemo.mp4)]
-
-## Pages
-
-[![HomePage](frontend/public/Homepage.png)]
-
-[![Submission](frontend/public/Submission.png)]
-
-[![TrackSubmission](frontend/public/TrackSubmission.png)]
-
-[![ManageSubmission](frontend/public/ManageSubmission(admin).png)]
-
-[![UserRegistrationAdmin](frontend/public/UserRegistrationAdmin.png)]
-
-[![UserManagementAdmin](frontend/public/UserManagementAdmin.png)]
 
 
 
