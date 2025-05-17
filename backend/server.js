@@ -11,6 +11,11 @@ const authRouter = require('./routes/auth');
 const app = express();
 const port = process.env.PORT || 5000;
 
+// Add request logging middleware
+app.use((req, res, next) => {
+  console.log(`[${new Date().toISOString()}] ${req.method} ${req.originalUrl}`);
+  next();
+});
 
 const corsOptions = {
   origin: process.env.FRONTEND_URL || '*',
