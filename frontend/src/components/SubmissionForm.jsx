@@ -18,7 +18,7 @@ const SubmissionForm = () => {
   const [trackingId, setTrackingId] = useState('');
   const [popupOpen, setPopupOpen] = useState(false);
 
-  useEffect(() => {
+  useEffect(() => {  
     const fetchCategories = async () => {
       try {
         const response = await apiClient.get('/admin/categories');
