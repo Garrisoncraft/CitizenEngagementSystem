@@ -49,7 +49,7 @@ The CitizenConnect is structured as a modern web application with the following 
 
 ## Demo Video
 
-[![Watch the demo](frontend/src/assets/CitizenConnectDemo.mp4)]
+[![Watch the demo](https://i.vimeocdn.com/video/123456789_640.jpg)](https://vimeo.com/1085152816/d3ae835223?share=copy)
 
 ## Demo Pages
 
